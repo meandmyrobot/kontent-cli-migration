@@ -1,0 +1,16 @@
+{
+    "name": "kontent-cli-migration",
+    "version": "1.0.0",
+    "description": "Playing around with the Kontent CLI.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "meandmyrobot",
+    "license": "MIT",
+    "dependencies": {
+        "@kentico/kontent-cli": "0.0.9",
+        "dotenv": "^8.2.0",
+        "rxjs": "^6.5.5"
+    }
+}
