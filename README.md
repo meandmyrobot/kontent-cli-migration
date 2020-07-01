@@ -1,5 +1,5 @@
 # Kentico Kontent CLI - Migration Example
-Howdy :wave:. This project is a companion repo to [an article I wrote on dev.to](http://?.com). The article will walk you through exactly what's going - so please [check it out](http://?.com). It's all about using the Kentico Kontent CLI to migrate model changes. [Kentico Kontent](https://kontent.ai/?utm_source=medium_content_modelling_series_part1&utm_medium=mvp_94301&utm_campaign=extended_trial
+Howdy :wave:. This project is a companion repo to [an article I wrote on dev.to](https://dev.to/meandmyrobot/migrating-model-changes-with-the-kentico-kontent-cli-2iba). The article will walk you through exactly what's going - so please [check it out](https://dev.to/meandmyrobot/migrating-model-changes-with-the-kentico-kontent-cli-2iba). It's all about using the Kentico Kontent CLI to migrate model changes. [Kentico Kontent](https://kontent.ai/?utm_source=medium_content_modelling_series_part1&utm_medium=mvp_94301&utm_campaign=extended_trial
 ) is a fantastic headless CMS. If you sign up by going to the site via [this link](https://kontent.ai/?utm_source=medium_content_modelling_series_part1&utm_medium=mvp_94301&utm_campaign=extended_trial
 ) then you'll get an extended trial.
 
