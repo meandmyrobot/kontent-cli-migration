@@ -9,4 +9,4 @@ If you're using this repo, then you don't have to follow all the steps that ask 
 npm i
 ```
 
-Interested in another example that also includes TypeScript? Check out Kentico Kontent's own [boilderplate project](https://github.com/Kentico/kontent-migrations-boilerplate).
+Interested in another example that also includes TypeScript? Check out Kentico Kontent's own [boilerplate project](https://github.com/Kentico/kontent-migrations-boilerplate).
